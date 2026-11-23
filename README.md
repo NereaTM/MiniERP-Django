@@ -131,5 +131,3 @@ En el sistema, se calcula contando:
 - Total de oportunidades
 - Oportunidades con etapa = CERRADA_GANADA
 
-## Licencia
-Proyecto escolar de DAM Curso 2025–2026.
